@@ -1,0 +1,7 @@
+.rbanner {
+	background-image: url(../../image/backgroundbus.jpeg);
+	padding: 150px 0px; 
+	background-size: cover;
+	background-position: center;
+	color: white;
+}

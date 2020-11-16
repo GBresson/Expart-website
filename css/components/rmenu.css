@@ -1,0 +1,40 @@
+.rmenu {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  font-style: black;
+  margin: 0 auto;
+  padding: 10px 10px 40px 10px;
+  list-style: none ;
+  text-align: center;
+  text-decoration: none;
+}
+
+.rmenu li {
+  display: inline;
+  margin: 0 auto;
+}
+
+.rmenu li a {
+  padding: 4px 20px ;
+  background: transparent;
+  color: black;
+  border-radius: 4px;
+  font: 'Lato', sans-serif;
+  font-weight: bold;
+  line-height: 1cm ;
+  text-align: center;
+  text-decoration: none;
+}
+
+.rmenu li a:hover, #navigation li a:focus, #navigation li a:active {
+  background: #FE9376;
+  color: white;
+  text-decoration: none;
+}
+
+.rmenu li img {
+  width: 100px;
+  float: justify;
+}
+

@@ -1,0 +1,15 @@
+.vbanner	{
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.4) 50%), url(../../image/Metropole.png);
+	color: white;
+	padding: 100px 0px; 
+	background-size: cover;
+	background-position: center;
+
+}
+
+
+.vbanner h1 {
+	font-size: 60px;
+	text-align: justify;
+}
+

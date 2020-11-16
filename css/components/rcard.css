@@ -1,0 +1,104 @@
+.cards {
+	display: flex;
+}
+
+.rcard {
+	padding: 40px 100px;
+	border-radius: 15px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-basis: 1500px;
+	font-size: 18px;
+	margin: 20px;
+	text-align: center;
+	height: 65px;
+}
+
+#southamerica {
+	background-image: url(../../image/macchupicchu.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#northamerica {
+	background-image: url(../../image/toronto.jpeg);
+	background-size: cover;
+	background-position: center;	
+}
+
+#oceania {
+	background-image: url(../../image/nz.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#africa {
+	background-image: url(../../image/afrique.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#europe {
+	background-image: url(../../image/europe.jpeg);
+	background-size: cover;
+	background-position: center;	
+}
+
+#asia {
+	background-image: url(../../image/asia.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#extreme {
+	background-image: url(../../image/jump.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#brunch {
+	background-image: url(../../image/brunch.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#culture {
+	background-image: url(../../image/culture.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#hiking {
+	background-image: url(../../image/hiking.jpeg);
+	background-size: cover;
+	background-position: center;	
+}
+
+#diving {
+	background-image: url(../../image/diving.jpeg);
+	background-size: cover;
+	background-position: center;		
+}
+
+#sport {
+	background-image: url(../../image/sport.jpeg);
+	background-size: cover;
+	background-position: center;		
+}
+
+
+
+
+
+
+
+
+
+
+
+

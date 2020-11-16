@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/cardunique.css");
+@import url("components/banner.css");
+@import url("components/menu.css");
+@import url("components/duoimg.css");
+@import url("components/verticalmenu.css");
+@import url("components/rcontainer.css");
+@import url("components/rbutton.css");
+@import url("components/rmenu.css");
+@import url("components/rbanner.css");
+@import url("components/rcard.css");
+@import url("components/rbannerexp.css");
+@import url("components/rcards.css");
+@import url("components/vbanner.css");
+@import url("components/vavatars.css");
+@import url("components/vcardguide.css");
+@import url("components/vcardguides.css");
+@import url("components/vdesc-guide.css");
+@import url("components/vdesc-btn.css");
+@import url("components/vdesc-guides.css");
+@import url("components/vmenu.css");
+@import url("components/vcontainer.css");
+@import url("components/vavatar.css");
+@import url("components/vbannersignup.css");
+@import url("components/vmenu.css");
+@import url("components/vnewguide.css");
+@import url("components/acontainer.css");
+@import url("components/aavatar.css");
+@import url("components/abanner.css");
+@import url("components/amenu.css");
+@import url("components/aduoimg.css");
+@import url("components/abutton.css");
+@import url("components/aimg.css");
+@import url("components/bimg.css");
+@import url("components/bmenu.css");
+@import url("components/bcontainer.css");
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+}	
+
+h1,h2,h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+}	
+
+a {
+	text-decoration: none;
+}	
+

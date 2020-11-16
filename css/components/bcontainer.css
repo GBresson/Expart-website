@@ -1,0 +1,70 @@
+.bcontainer {
+ 	width: 492px;
+  position: absolute;
+  padding-top: 170px;
+  left: 759px;
+  top: 150px;
+  bottom: 660px; 
+
+ }
+
+ .bcontainer p{
+  padding-top: 5px;
+ }
+
+}
+
+ .bcontainer h1{ background: #8AE1C5 }
+  font-size: 36px;
+  font-style: black;
+  font-family: lato; 
+  border-radius: 25px;
+  background-size: 164px 68px; 
+
+
+ }
+
+ }
+
+ .bcontainer h2{
+  font-size: 30px;
+  font-style: black;
+  font-family: lato; 
+
+ }
+
+ }
+
+ .bcontainer h3{
+  font-size: 30px;
+  font-style: black;
+  font-family: lato; 
+
+ }
+
+ }
+
+ .bcontainer h4{
+  font-size: 30px;
+  font-style: black;
+  font-family: lato; 
+
+ }
+ @media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .bcontainer {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .bcontainer {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .bcontainer {
+    width: 300px;
+  }
+}

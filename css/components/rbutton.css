@@ -1,0 +1,9 @@
+.rbutton {
+	background-color: #FE9376;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+}

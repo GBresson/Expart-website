@@ -1,0 +1,38 @@
+.vmenu {
+    display: inline-flex;
+    font-size: 25px;
+  
+}
+
+.vmenu li {
+    display: inline-flex;
+    align-items: center;
+    color: white;
+    margin: 0px auto;
+    padding: 50px;
+    justify-content: space-between;
+    list-style: none;
+    text-align: center;
+
+}
+
+.vmenu li a {
+  padding: 4px 20px ;;
+  color: white;
+  border-radius: 8px;
+  font: 'Lato', sans-serif;
+  line-height: 1cm ;
+  text-align: center ;
+}
+
+.vmenu li a:hover, #navigation li a:focus, #navigation li a:active {
+  background: #FE9376;
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.vmenu li img {
+
+  width: 120px;
+}

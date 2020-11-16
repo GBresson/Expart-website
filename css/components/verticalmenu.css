@@ -1,0 +1,27 @@
+.verticalmenu {
+  width: 30%;
+  list-style: none;
+  margin: auto;
+  padding: 15%;
+}
+
+.verticalmenu li {
+  background: #FE9376;
+  color: white;
+  border: 1px solid white;
+  margin-bottom: 10px ;
+  list-style-type: none;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.verticalmenu li a {
+  display: block ;
+  background: #FE9376;
+  color: #fff ;
+  font: 1.3em "Lato", sans-serif ;
+  line-height: 1em ;
+  text-align: center ;
+  text-decoration: none;
+  padding: 4px 4px;
+}

@@ -1,0 +1,31 @@
+.duoimg {
+ 	display: flex;
+ }
+
+ .duoimg {
+    padding: 500px 200px;
+    border-radius: 15px;
+    margin: 50px;
+    padding-block-start: 60px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#traveller {
+ 	background-image: url(../../image/homepage.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+ }
+
+ #guide  {
+    background-image: url(../../image/Guide.jpeg);
+    background-size: cover;
+    background-position: center;
+    color: black;
+ }
